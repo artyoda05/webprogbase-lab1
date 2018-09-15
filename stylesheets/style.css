@@ -1,0 +1,75 @@
+.logo {
+    height: 90px;
+    width: auto;
+    display: inline-block;
+}
+
+header {
+    background-color: cornsilk;
+    font-size: 70px;
+    width: 100%;
+    margin: 0;
+}
+
+nav {
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 40%;
+}
+
+.header_div {
+    display: inline-block;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    align-self: center;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.usersTable {
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.indexText {
+    margin-top: -35%;
+    width: 35%;
+
+    margin-left: 62%;
+    
+}
+
+.infoContainer {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.userAva {
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.userInfo {
+    margin-left: 30%;
+    margin-top: -16%;
+}
+
+.indexImg {
+    width: 55%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
